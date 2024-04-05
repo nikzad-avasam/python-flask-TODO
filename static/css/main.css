@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(243, 243, 243);
+    text-align: center;
+}
+.content{
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+table{
+    margin:15px auto;
+
+}
+td{
+    padding: 5px;
+    text-align: left;
+    border: 1px solid rgb(201, 201, 201);
+}
+a{
+    text-decoration: none;
+}
