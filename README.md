@@ -1,2 +1,3 @@
 # python-flask-TODO
-سایت ساده با فریمورک فلسک زبان پایتون جهت یادگیری در کارگاه آموزش طراحی وب با فلسک . لینک زیر 
+simple todo website using python flask frameworkd.
+
