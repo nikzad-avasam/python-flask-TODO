@@ -12,8 +12,9 @@ simple todo website using python flask frameworkd.
 ## لینک جلسات کارگاه آموزش فریمورک flask پایتون : 
 
 تهیه از اپارات ( بدون نیاز به ویلتفرشکن )  : 
-جلسه ی اول [https://www.aparat.com/v/LEWI9](https://www.aparat.com/v/LEWI9)
-جلسه ی دوم [https://www.aparat.com/v/FZBuP](https://www.aparat.com/v/FZBuP)
-جلسه ی سوم [https://www.aparat.com/v/1JBfq](https://www.aparat.com/v/1JBfq)
-جلسه ی چهارم [https://www.aparat.com/v/Es7xj](https://www.aparat.com/v/Es7xj)
+
+- جلسه ی اول [https://www.aparat.com/v/LEWI9](https://www.aparat.com/v/LEWI9)
+- جلسه ی دوم [https://www.aparat.com/v/FZBuP](https://www.aparat.com/v/FZBuP) 
+- جلسه ی سوم [https://www.aparat.com/v/1JBfq](https://www.aparat.com/v/1JBfq)  
+- جلسه ی چهارم [https://www.aparat.com/v/Es7xj](https://www.aparat.com/v/Es7xj)  
 
