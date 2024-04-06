@@ -18,3 +18,9 @@ simple todo website using python flask frameworkd.
 - جلسه ی سوم [https://www.aparat.com/v/1JBfq](https://www.aparat.com/v/1JBfq)  
 - جلسه ی چهارم [https://www.aparat.com/v/Es7xj](https://www.aparat.com/v/Es7xj)  
 
+
+تهیه از یوتیوب : 
+- جلسه ی اول [https://www.youtube.com/watch?v=Pl_YP1afmws](https://www.youtube.com/watch?v=Pl_YP1afmws)
+- جلسه ی دوم [https://www.youtube.com/watch?v=hAh0CT-dd5U](https://www.youtube.com/watch?v=hAh0CT-dd5U)
+- جلسه سوم [https://www.youtube.com/watch?v=x_BOOwnvWww](https://www.youtube.com/watch?v=x_BOOwnvWww)
+- جلسه چهارم [https://www.youtube.com/watch?v=NIIEOAyvaRw](https://www.youtube.com/watch?v=NIIEOAyvaRw)
